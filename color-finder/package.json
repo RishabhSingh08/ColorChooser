@@ -16,5 +16,8 @@
 		"tailwindcss": "^3.3.3",
 		"vite": "^4.4.9"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"vercel": "^31.4.0"
+	}
 }
